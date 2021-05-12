@@ -1,0 +1,35 @@
+.body_all{
+    width: 960px;
+    font-size: 25px;
+    background-color:white;
+    margin:0px;          /* ページ全体のmargin */
+    padding:0px;         /* ページ全体のpadding */
+    text-align:center; 
+}
+
+/*.menu_box_1{
+    text-align: center;
+}
+*/
+
+.menu_box_2{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: ５px;
+}
+
+.img_gu{
+    width: 250px;
+}
+.img_cho{
+    width: 250px;
+}
+.img_pa{
+    width: 250px;
+}
+.img_vs{
+    width: 150px;
+}
+
+/*相手*/
